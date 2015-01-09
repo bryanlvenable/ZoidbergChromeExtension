@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Zoidberg Scuttle",
+  "description": "Need a Chrome Extention? Why not Zoidberg",
+  "version": "1.0",
+
+  "permissions": [
+  ],
+  "browser_action": {
+    "default_icon": "Zoidberg.png",
+    "default_popup": "scuttle.html"
+  }
+}
